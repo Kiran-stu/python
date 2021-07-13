@@ -9,7 +9,7 @@ print('Password Generator\n')
 
 
 infi=0
-print('Press X to start and S to stop and R to regenrate the password')
+print('Press S to start and X to stop and R to regenrate the password')
 while infi!='x':
 
     infi=input()
