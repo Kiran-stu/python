@@ -1,2 +1,2 @@
-These codes are just my own creativity (no plagiarism). 
+These codes are just my own creativity . 
 
