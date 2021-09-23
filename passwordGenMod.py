@@ -27,7 +27,7 @@ while infi!='x':
         else:
             print('your password is ')
     except:
-        print('No value Entered pls Re-enter idiot')
+        print('No value Entered pls Re-enter')
         print('Press Enter to continue')
         continue
 
